@@ -23,5 +23,5 @@ Tabela de conteúdos
 <!--te-->
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Modulos auxiliares  VBA 🚀 Em construção...  🚧
 </h4>
