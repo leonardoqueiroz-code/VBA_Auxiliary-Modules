@@ -12,6 +12,7 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Status do Projeto](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
@@ -20,3 +21,7 @@ Tabela de conteúdos
    * [ExemplOs](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
+
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
