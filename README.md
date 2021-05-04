@@ -10,7 +10,6 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Titulo](#odulos auxiliares  VBA)
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
