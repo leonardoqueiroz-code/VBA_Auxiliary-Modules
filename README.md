@@ -6,3 +6,18 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)]()
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](h)
 [![Only 85 kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)]()
+
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Titulo](#odulos auxiliares  VBA)
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Import files](#remote-files)
+   * [Exemples](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
