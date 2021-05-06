@@ -25,3 +25,20 @@ Tabela de conteúdos
 <h4 align="center"> 
 	🚧  Modulos auxiliares  VBA 🚀 Em construção...  🚧
 </h4>
+
+<h4 align="center"> 
+	🚧  Modulos auxiliares  VBA 🚀 Instalação  🚧
+</h4>
+
+<h4 align="center"> 
+	🚧  Modulos auxiliares  VBA 🚀 Como Usar  🚧
+</h4>
+
+
+<h4 align="center"> 
+	🚧  Modulos auxiliares  VBA 🚀 Exemplos  🚧
+</h4>
+
+<h4 align="center"> 
+	🚧  Modulos auxiliares  VBA 🚀 Tecnologias  🚧
+</h4>
