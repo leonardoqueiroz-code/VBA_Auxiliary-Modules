@@ -38,14 +38,18 @@ Instalação
 Como usar
 =================
 <h4 align="center"> 
-	🚧  Modulos auxiliares  VBA 🚀 Como Usar  🚧
+	🚧  Pre Requisitos 🚧
 </h4>
+
+- Excel
+- Sistema operacional compativel
+
 
 
 <h4 align="center"> 
 	🚧  Modulos auxiliares  VBA 🚀 Exemplos  🚧
 </h4>
 
-<h4 align="center"> 
-	🚧  Modulos auxiliares  VBA 🚀 Tecnologias  🚧
-</h4>
+- VBA_Modulos_Auxiliares_PT_BR
+	- Modulos_auxiliares
+		- ACHIVES.BAS
