@@ -47,7 +47,7 @@ Como usar
 
 
 <h4 align="center"> 
-	🚧  Modulos auxiliares  VBA 🚀 Exemplos  🚧
+	🌟  Modulos auxiliares  VBA 🌟 Exemplos  🌟
 </h4>
 
 - VBA_Modulos_Auxiliares_PT_BR
