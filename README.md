@@ -32,10 +32,11 @@ Status do Projeto
 Instalação
 =================
 
-<h4 align="center"> 
-	🚧  Modulos auxiliares  VBA 🚀 Instalação  🚧
-</h4>
+1. Abrir o arquivo do projeto;
+2. Realizar a importação dos modulos necessários;
 
+Como usar
+=================
 <h4 align="center"> 
 	🚧  Modulos auxiliares  VBA 🚀 Como Usar  🚧
 </h4>
