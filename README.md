@@ -31,10 +31,12 @@ Status do Projeto
 
 Instalação
 =================
+
 <div align="center">
-1. Abrir o arquivo do projeto;
+1. Abrir o arquivo do projeto; <br>
 2. Realizar a importação dos modulos necessários;
 </div>
+
 Como usar
 =================
 <h4 align="center"> 
