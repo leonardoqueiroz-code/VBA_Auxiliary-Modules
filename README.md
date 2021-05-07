@@ -22,10 +22,14 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
+
+Status do Projeto
+=================
 <h4 align="center"> 
 	🚧  Modulos auxiliares  VBA 🚀 Em construção...  🚧
 </h4>
-
+Instalação
+=================
 <h4 align="center"> 
 	🚧  Modulos auxiliares  VBA 🚀 Instalação  🚧
 </h4>
