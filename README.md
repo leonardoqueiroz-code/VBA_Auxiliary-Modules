@@ -55,5 +55,5 @@ Como usar
 <center>
 	- VBA_Modulos_Auxiliares_PT_BR
 		- Modulos_auxiliares
-			- ACHIVES.BAS
+			- arquivo.bas
 </center>
