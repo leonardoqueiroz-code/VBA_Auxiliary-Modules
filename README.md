@@ -16,7 +16,7 @@ Tabela de conteúdos
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
+      * [Estrutura das pastas](#local-files)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -47,7 +47,7 @@ Como usar
 
 
 <h4 align="center"> 
-	🌟  Modulos auxiliares  VBA 🌟 Exemplos  🌟
+	🌟  Modulos auxiliares  VBA 🌟 Estrutura das pastas  🌟
 </h4>
 
 <center>
