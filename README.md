@@ -17,8 +17,6 @@ Tabela de conteúdos
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
-      * [Import files](#remote-files)
-   * [ExemplOs](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -53,7 +51,7 @@ Como usar
 </h4>
 
 <center>
-	- VBA_Modulos_Auxiliares_PT_BR
-		- Modulos_auxiliares
+	- VBA_Modulos_Auxiliares_PT_BR<br>
+		- Modulos_auxiliares <br>
 			- arquivo.bas
 </center>
