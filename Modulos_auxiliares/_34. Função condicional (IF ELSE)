@@ -1,0 +1,12 @@
+Sub Exemplo()
+
+    verificar_condicao = False
+
+    If verificar_condicao then
+        Msgbox "Este Msgbox não deve aparecer" 'Pois verificar_condicao é False
+    Else 'Porém verificar_condicao sendo False o código abaixo será executado
+        Msgbox "Este Msgbox deve aparecer"
+    End If
+     
+End Sub
+
