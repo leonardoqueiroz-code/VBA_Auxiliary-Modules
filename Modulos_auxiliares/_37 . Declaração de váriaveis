@@ -1,0 +1,7 @@
+Sub DecVars()
+
+Dim v_Varl As Workbook
+Dim v_Var2 As String
+Dim v_Var3 As Integer
+
+End Sub
