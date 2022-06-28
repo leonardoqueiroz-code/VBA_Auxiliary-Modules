@@ -24,7 +24,7 @@ Tabela de conteúdos
 Status do Projeto
 =================
 <h4 align="center"> 
-	🚧  Modulos auxiliares  VBA 🚀Conclúido  🚧
+	🚧  Modulos auxiliares  VBA 🚀 Finalizado  🚧
 </h4>
 
 Instalação
